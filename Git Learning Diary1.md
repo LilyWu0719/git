@@ -30,7 +30,7 @@ git status
 
 
 
-![git(2)](C:\Users\Tommy\Downloads\git(2).png)
+![git(2)](https://github.com/LilyWu0719/git/blob/master/scr/git(2).png)
 
 It is a command to add all the untracked files.
 
